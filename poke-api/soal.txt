@@ -1,0 +1,8 @@
+API public: https://pokeapi.co/docs/v2#berries-section
+
+1. buatlah list drdpdown dengan Cata diatas beserta Fitur input search didaLamnya
+2. filter data tersebut secara ascending
+3. nunculkan output dari hasil pilihan data
+
+Pilihan framework (JS, PHP)
+Dibebaskan menggunakan library
